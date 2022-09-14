@@ -5,8 +5,8 @@
 - 📫 Reach me by email: sergii.borodin@yahoo.com
 - 📱 A link to my LinkedIn page: https://www.linkedin.com/in/sergii-borodin-4bb3a61b8/
 
-<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'>
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt='HTML5 icon' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' width='24' height='24'>
+<img alt='CSS3 icon' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='32' height='32'>
 
 
 <!---
