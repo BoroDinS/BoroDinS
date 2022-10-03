@@ -17,6 +17,12 @@
             LinkedIn
           </a>
         </li>
+        <li>
+          👨‍💻 My
+          <a href="https://sergii-borodin.github.io/portfolio/">
+            Portfolio
+          </a>
+        </li>
       </ul>
       <h3>My stack and tools</h3>
       <p>
