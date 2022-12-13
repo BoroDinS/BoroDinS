@@ -3,8 +3,7 @@
       <ul>
         <li>🤓 I'm an enthusiast-frontend web developer</li>
         <li>
-          🌱 I have finished a 9-month intensive frontend web developer course
-          from HackYourFuture Denmark school
+          🌱 Currently I'm learning TypeScript
         </li>
         <li>💞️ I like to travel and listen to music</li>
         <li>
