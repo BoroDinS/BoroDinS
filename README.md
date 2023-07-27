@@ -3,7 +3,7 @@
       <ul>
         <li>🤓 I'm an enthusiast-frontend web developer</li>
         <li>
-          🌱 Currently I'm learning TypeScript
+          💻 Frontend Developer Intern at <a href="https://www.nordinsight.com">NordInsight</a>
         </li>
         <li>💞️ I like to travel and listen to music</li>
         <li>
