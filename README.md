@@ -1,7 +1,6 @@
  <article>
       <p>       HI, I'M SERGII 👋</p>
       <ul>
-        <li>🤓 I'm an enthusiast-frontend web developer</li>
         <li>
           💻 Software developer at Kazboo
         </li>
