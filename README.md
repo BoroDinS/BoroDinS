@@ -3,7 +3,7 @@
       <ul>
         <li>🤓 I'm an enthusiast-frontend web developer</li>
         <li>
-          💻 Frontend Developer Intern at Kazboo
+          💻 Software developer at Kazboo
         </li>
         <li>💞️ I like to travel and listen to music</li>
         <li>
